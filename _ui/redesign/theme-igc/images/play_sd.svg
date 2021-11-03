@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <path id="play_sd-a" d="M36,72 C16.117749,72 0,55.882251 0,36 C0,16.117749 16.117749,0 36,0 C55.882251,0 72,16.117749 72,36 C72,55.882251 55.882251,72 36,72 Z M36,69 C54.2253967,69 69,54.2253967 69,36 C69,17.7746033 54.2253967,3 36,3 C17.7746033,3 3,17.7746033 3,36 C3,54.2253967 17.7746033,69 36,69 Z M27.3320109,21.129819 L51.1653622,36.296398 L27.3320109,51.4630657 L27.3320109,21.129819 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="36" cy="36" r="35" fill="#FFF"/>
+    <mask id="play_sd-b" fill="#fff">
+      <use xlink:href="#play_sd-a"/>
+    </mask>
+    <polygon fill="#E08" points="0 0 72 0 72 72 0 72" mask="url(#play_sd-b)"/>
+  </g>
+</svg>

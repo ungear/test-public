@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{uvIy:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return o}));var a=n("KINe");n("ehvE");function o(){a.a.call(this);var e=$("#barcode");if(e.length){var t=e.data();e.barcode(t.code.toString(),"code128",$.extend({barWidth:2,barHeight:45,fontSize:16},t))}}}}]);

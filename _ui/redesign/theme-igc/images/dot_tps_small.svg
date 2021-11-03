@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <circle id="dot_tps_small-a" cx="15" cy="15" r="7"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="dot_tps_small-b" fill="#fff">
+      <use xlink:href="#dot_tps_small-a"/>
+    </mask>
+    <use fill="#D82B91" xlink:href="#dot_tps_small-a"/>
+    <rect width="30" height="30" fill="#D40A3E" mask="url(#dot_tps_small-b)"/>
+    <path fill="#FFF" d="M15,23 C10.581722,23 7,19.418278 7,15 C7,10.581722 10.581722,7 15,7 C19.418278,7 23,10.581722 23,15 C23,19.418278 19.418278,23 15,23 Z M15,21 C18.3137085,21 21,18.3137085 21,15 C21,11.6862915 18.3137085,9 15,9 C11.6862915,9 9,11.6862915 9,15 C9,18.3137085 11.6862915,21 15,21 Z"/>
+  </g>
+</svg>

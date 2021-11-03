@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215" height="215" viewBox="0 0 215 215">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="107.5" cy="107.5" r="107.5" fill="#D8D8D8" stroke="#979797"/>
+    <polygon fill="#1D1C1A" points="0 215 215 215 215 0 0 0"/>
+    <polygon fill="#D40A3E" points="78 44 138 44 138 0 78 0"/>
+    <polygon fill="#D40A3E" points="78 215 138 215 138 171 78 171"/>
+    <g fill="#FFF" transform="translate(18 59)">
+      <g transform="translate(.111 .395)">
+        <text font-family="Futura-Boo, Futura" font-size="29.297" font-weight="300" letter-spacing="10.937">
+          <tspan x="1.032" y="57.277">PERFUM</tspan> <tspan x="163.396" y="57.277">E</tspan>
+        </text>
+        <text font-family="Futura-Medium, Futura" font-size="17.969" font-weight="400" letter-spacing="5.469">
+          <tspan x="56.565" y="90.433">SHO</tspan> <tspan x="112.681" y="90.433">P</tspan>
+        </text>
+        <text font-family="Futura-Medium, Futura" font-size="17.969" font-weight="400" letter-spacing="5.469">
+          <tspan x="67.221" y="19.339">THE</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+.personalized-component {
+
+	&__title {
+
+	}
+
+	&__items {
+
+	}
+
+	&--standalone {
+		@include create-component();
+	}
+
+	&--hidden {
+		display: none;
+	}
+}
+
+.personalized-component__spinner {
+	display: none;
+
+	.personalized-component--loading & {
+		display: block;
+		text-align: center;
+		padding-top: 50px;
+
+		@include media-breakpoint-up(tablet) {
+			padding-top: 75px;
+		}
+		@include media-breakpoint-up(desktop) {
+			padding-top: 100px;
+		}
+	}
+}
+
+.personalized-component__spinner-image {
+
+	.personalized-component--loading & {
+		width: auto !important;
+	}
+}
+
+.personalized-component__items {
+
+	.personalized-component--loading & {
+		display: none;
+	}
+
+}

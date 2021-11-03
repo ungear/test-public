@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <polygon id="player_mit_play-a" points="7.999 5.137 7.999 19.137 18.999 12.137"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="player_mit_play-b" fill="#fff">
+      <use xlink:href="#player_mit_play-a"/>
+    </mask>
+    <polygon fill="#702785" points="0 0 24 0 24 24 0 24" mask="url(#player_mit_play-b)"/>
+  </g>
+</svg>

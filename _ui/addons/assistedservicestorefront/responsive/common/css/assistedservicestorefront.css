@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis:400,300,500,600);
+
+@font-face {
+    font-family: 'asm_icons';
+    src: url('../fonts/asm_icons.eot?9817510');
+    src: url('../fonts/asm_icons.eot?9817510#iefix') format('embedded-opentype'),
+    url('../fonts/asm_icons.woff?9817510') format('woff'),
+    url('../fonts/asm_icons.ttf?9817510') format('truetype'),
+    url('../fonts/asm_icons.svg?9817510#asm_icons') format('svg');
+}

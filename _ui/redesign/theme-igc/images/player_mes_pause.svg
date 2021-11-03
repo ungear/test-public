@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="player_mes_pause-a" d="M13.9999992,18.9999989 L17.9999989,18.9999989 L17.9999989,4.99998968 L13.9999992,4.99998968 L13.9999992,18.9999989 Z M5.99999964,18.9999989 L9.9999994,18.9999989 L9.9999994,4.99998968 L5.99999964,4.99998968 L5.99999964,18.9999989 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="player_mes_pause-b" fill="#fff">
+      <use xlink:href="#player_mes_pause-a"/>
+    </mask>
+    <polygon fill="#702785" points="0 0 24 0 24 24 0 24" mask="url(#player_mes_pause-b)"/>
+  </g>
+</svg>

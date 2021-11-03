@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <polygon id="dot_tps_star-a" points="14 21.704 22.652 27 20.363 17.011 28 10.296 17.933 9.417 14 0 10.067 9.417 0 10.296 7.637 17.011 5.348 27"/>
+    <polygon id="dot_tps_star-c" points="15 22.704 23.652 28 21.363 18.011 29 11.296 18.933 10.417 15 1 11.067 10.417 1 11.296 8.637 18.011 6.348 28"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(1 1)">
+      <mask id="dot_tps_star-b" fill="#fff">
+        <use xlink:href="#dot_tps_star-a"/>
+      </mask>
+      <use fill="#FFF" xlink:href="#dot_tps_star-a"/>
+      <rect width="30" height="30" x="-1" y="-1" fill="#D40A3E" mask="url(#dot_tps_star-b)"/>
+    </g>
+    <use stroke="#FFF" stroke-linejoin="round" stroke-width="2" xlink:href="#dot_tps_star-c"/>
+  </g>
+</svg>
